@@ -1,0 +1,32 @@
+*{
+    background-color: black;
+}
+
+.select
+{
+    padding: 20px 40px;
+    width: 300px;
+    margin:0;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+}
+.option
+{
+    text-align: left;
+    position: absolute;
+    padding: 2px;
+    display: none;
+
+}
+
+.optionItem{
+    background-color: white;
+    color: #212121;
+}
+.active{
+    text-align: left;
+    display: block;
+    background-color: white;
+    color: #212121;
+    padding: 20px 40px;
+}
